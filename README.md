@@ -217,7 +217,6 @@ A **Lasso regression** (α = 0.01) was then used to inspect feature-level coeffi
 | SVR | 24 candidates → 120 fits | `C=10`, `epsilon=0.2`, `kernel='rbf'` | 0.951 | 2.07 |
 
 <p align="center">
-  <img src="assets/images/05_knn_bias_variance_tradeoff.png" width="750" alt="KNN bias-variance tradeoff"/>
   <br/>
   <em>Train vs. test MSE across k = 1–19 — used to visually diagnose the bias-variance tradeoff before tuning.</em>
 </p>
