@@ -175,7 +175,7 @@ The notebook runs a full univariate and bivariate pass across every numeric feat
 ## 🔗 Feature Correlation
 
 <p align="center">
-  <img src="assets/images/04_correlation_heatmap.png" width="850" alt="Correlation heatmap"/>
+  <img src="https://res.cloudinary.com/dm6bzrs6l/image/upload/v1784476717/PHOTO-2026-07-19-21-28-29_ycnjwg.jpg" width="850" alt="Correlation heatmap"/>
   <br/>
   <em>Full correlation matrix across all engineered features, computed after cleaning and encoding.</em>
 </p>
@@ -223,7 +223,7 @@ A **Lasso regression** (α = 0.01) was then used to inspect feature-level coeffi
 </p>
 
 <p align="center">
-  <img src="assets/images/06_model_performance_comparison.png" width="650" alt="Model comparison"/>
+  <img src="https://res.cloudinary.com/dm6bzrs6l/image/upload/v1784476626/PHOTO-2026-07-19-21-26-29_swjgu4.jpg" width="650" alt="Model comparison"/>
   <br/>
   <em>Final head-to-head comparison across all four algorithms.</em>
 </p>
