@@ -217,11 +217,6 @@ A **Lasso regression** (α = 0.01) was then used to inspect feature-level coeffi
 | SVR | 24 candidates → 120 fits | `C=10`, `epsilon=0.2`, `kernel='rbf'` | 0.951 | 2.07 |
 
 <p align="center">
-  <br/>
-  <em>Train vs. test MSE across k = 1–19 — used to visually diagnose the bias-variance tradeoff before tuning.</em>
-</p>
-
-<p align="center">
   <img src="https://res.cloudinary.com/dm6bzrs6l/image/upload/v1784476626/PHOTO-2026-07-19-21-26-29_swjgu4.jpg" width="650" alt="Model comparison"/>
   <br/>
   <em>Final head-to-head comparison across all four algorithms.</em>
