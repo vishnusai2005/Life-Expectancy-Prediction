@@ -131,19 +131,19 @@ flowchart LR
 The notebook runs a full univariate and bivariate pass across every numeric feature — **86 charts in total** — before any modeling begins.
 
 <p align="center">
-  <img src="assets/images/01_life_expectancy_distribution.png" width="800" alt="Life expectancy distribution"/>
+ 
   <br/>
   <em>Distribution of the target variable — life expectancy is left-skewed, with most countries clustered between 60–80 years.</em>
 </p>
 
 <p align="center">
-  <img src="assets/images/02_status_comparison.png" width="800" alt="Developed vs Developing life expectancy"/>
+ 
   <br/>
   <em>Developed nations average <b>79.2 years</b> vs. <b>67.1 years</b> for developing nations — a ~12-year gap.</em>
 </p>
 
 <p align="center">
-  <img src="assets/images/03_bivariate_feature_analysis.png" width="800" alt="Life expectancy vs all features"/>
+  <img src="https://res.cloudinary.com/dm6bzrs6l/image/upload/v1784476845/PHOTO-2026-07-19-21-30-34_dfth6r.jpg" width="800" alt="Life expectancy vs all features"/>
   <br/>
   <em>Life expectancy plotted against all 18 numeric predictors to visually screen for linear and non-linear relationships.</em>
 </p>
